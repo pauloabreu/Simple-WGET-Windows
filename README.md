@@ -1,2 +1,2 @@
 # Simple-WGET-Windows
-Example: wget url archive name
+Example: wget URL archive_name
